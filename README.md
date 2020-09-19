@@ -24,3 +24,5 @@ A UI designer will first be in charge of this and they will work and pass it on 
 
 Define Reusable Components. 
 This is a component that can be used in multiple places of your website. For example it can be a button with certain color schemes that is used on every page of your application. 
+
+<img width="1425" alt="Figma" src="https://user-images.githubusercontent.com/67084551/93685486-fc07c100-fa6c-11ea-8393-8ca4ace50a7d.png">
